@@ -1,0 +1,22 @@
+.container {
+  width: 100%;
+  text-align: center;
+}
+
+.title {
+  border-bottom: 2px solid black;
+  padding-bottom: 20px;
+}
+
+.subtitle,
+.contents {
+  text-align: justify;
+}
+
+.contents {
+  text-indent: 20px;
+}
+
+img {
+  height: 150px;
+}

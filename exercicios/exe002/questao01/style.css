@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2;
+}
+
+.title {
+  font-size: 3;
+  text-align: center;
+  margin: auto;
+}
+
+.container {
+  border: 5px;
+  border-style: double;
+  border-color: black;
+  width: 408px;
+  margin: auto;
+  background-color: #f9f9f9;
+}
+.table {
+  width: 400px;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+.table-title {
+  background-color: cyan;
+  text-align: center;
+}
+
+.table tr > td:first-child {
+  color: #0645ad;
+}
